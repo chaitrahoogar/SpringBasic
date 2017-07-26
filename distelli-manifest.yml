@@ -22,7 +22,7 @@ chaitra/SpringBasic:
     - mvn package
 
   PkgInclude:
-    - '/target/SpringBasic.war'
+    - '/target/SpringBasic.jar'
  
   PreInstall:
     # The below preinstall steps will pre-install
